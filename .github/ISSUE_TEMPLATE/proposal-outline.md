@@ -1,38 +1,59 @@
 ---
-name: Proposal outline
-about: Submit your own proposal with template
-title: "[Proposal]"
-labels: ""
-assignees: ""
----
 
-# Proposal Template
+name: "Proposal Outline"
+about: "Submit your own proposal with this structured template"
+title: "[Proposal] <Your Project Title>"
+labels: ["proposal"]
+assignees: []
 
-## Problem Description
+body:
 
-- What are the paint points addressed and for whom
-- Severity of the problem
+- type: markdown
+  attributes:
+  value: | # Proposal Template
+  Thank you for submitting your proposal. Please fill out the sections below with detailed information.
 
-## Business Opportunity
+- type: textarea
+  id: problem_description
+  attributes:
+  label: "Problem Description"
+  description: "Describe the pain points addressed and for whom. Include the severity of the problem."
+  placeholder: "- What specific problems does your solution address?\n- Who experiences these problems?\n- How severe is this problem for the affected parties?\n- What existing solutions fall short?"
+  validations:
+  required: true
 
-- Who are the target customers?
-- What is the overall market size?
-- What are potential business models?
-- Estimated cost to develop the final solution?
+- type: textarea
+  id: business_opportunity
+  attributes:
+  label: "Business Opportunity"
+  description: "Outline the market potential and business model for your solution."
+  placeholder: "- Who are the target customers?\n- What is the overall market size?\n- What are potential business models?\n- Estimated cost to develop the final solution?\n- What is the potential ROI?"
+  validations:
+  required: true
 
-## Technical Plan
+- type: textarea
+  id: technical_plan
+  attributes:
+  label: "Technical Plan"
+  description: "Provide details about your technical approach and implementation strategy."
+  placeholder: "- Define your solution approach\n- What is unique about your solution?\n- Frameworks/Technologies of SpoonOS to be used\n- Assumptions, constraints, and solution decision points\n- Implementation timeline and milestones\n- How easily can your solution be implemented and how effective will it be?"
+  validations:
+  required: true
 
-- Define your solution Approach?
-- What is unique about your solution?
-- Frameworks/Technologies of SpoonOS to be used
-- Assumptions, constraints, and solution decision points (Reason behind choosing a technology)
-- How easily can your solution be implemented and how effective will it be
+- type: textarea
+  id: team_information
+  attributes:
+  label: "Team Information"
+  description: "Share details about your team and their qualifications."
+  placeholder: "- Team name\n- Team members and their roles\n- Contact email(s)\n- Discord contact (if applicable)\n- Team members' background and relevant experience\n- Previous projects or achievements (if applicable)"
+  validations:
+  required: true
 
-## Team Information
-
-- Team name
-- Team members and their roles
-- Contact email(s)
-- Discord contact (if applicable)
-- Team members' background and relevant experience
-- Previous projects or achievements (if applicable)
+- type: textarea
+  id: additional_information
+  attributes:
+  label: "Additional Information"
+  description: "Any other relevant information you'd like to share about your proposal."
+  placeholder: "Include any diagrams, mockups, or supplementary materials that support your proposal."
+  validations:
+  required: false
