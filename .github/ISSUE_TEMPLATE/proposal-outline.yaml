@@ -1,6 +1,6 @@
 ---
 name: "Proposal Outline"
-about: "Submit your own proposal with this structured template"
+description: "Submit your own proposal with this structured template"
 title: "[Proposal] <Your Project Title>"
 labels: ["proposal"]
 assignees: []
