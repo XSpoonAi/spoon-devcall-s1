@@ -19,7 +19,7 @@ Participants will experience three phases of work:
 In this phase:
 
 - SpoonOS team will provide proposal [samples](./Proposal_Samples/), but developers can choose to use these or create their own.
-- If using a sample proposal, developers must submit a sample issue in the Scoop GitHub repository for tracking.
+- If using a sample proposal, developers must [submit a sample issue](https://github.com/XSpoonAi/spoon-devcall-s1/issues) in the Scoop GitHub repository for tracking.
 - If creating an original proposal, it must include:
   - Problem description or pain points
   - Target users
@@ -49,13 +49,14 @@ Once a proposal is approved:
   3. Improve documentation
   4. Address development blockers
   5. Submit as a GitHub source code repository
+- After submit the issue, please make sure to copy the issue link and add under your proposal issue in the spoon-dev-call repository for tracking your contribution.
 
 The SpoonOS team will review issues and may either:
 
 - Ask the developer to submit a PR to resolve the issue (with additional rewards)
 - Fix the issue in-house
 
-Developers who submit PRs that are accepted will receive contributor status on Discord.
+Developers who submit PRs that are accepted will receive contributor role on Discord.
 
 ### 3. Audit Phase
 
@@ -115,8 +116,8 @@ Participants can engage in any of the three phases (Proposal, Coding, Audit) at 
 
 | Date          | Milestone                          |
 | ------------- | ---------------------------------- |
-| June 25, 2025 | Program Launch                     |
-| July 25, 2025 | Program End & Rewards Distribution |
+| June 30, 2025 | Program Launch                     |
+| July 30, 2025 | Program End & Rewards Distribution |
 
 _Note: All deadlines are at 11:59 PM UTC on the specified date._
 
@@ -124,9 +125,9 @@ _Note: All deadlines are at 11:59 PM UTC on the specified date._
 
 To participate in the SpoonOS Developer Call:
 
-1. Review the SpoonOS documentation
-2. Choose or create a proposal
-3. Submit your proposal as an issue in the Scoop GitHub repository
+1. Review the [SpoonOS documentation](https://github.com/XSpoonAi/spoon-core)
+2. [Choose](./Proposal_Samples/) or create a proposal
+3. [Submit your proposal](https://github.com/XSpoonAi/spoon-devcall-s1/issues) as an issue in the spoon-devcall-s1 GitHub repository
 4. Wait for approval from the SpoonOS team
 5. Begin development at your own pace during the program period
 6. Submit your completed project according to the audit phase requirements
