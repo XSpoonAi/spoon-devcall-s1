@@ -116,8 +116,8 @@ Participants can engage in any of the three phases (Proposal, Coding, Audit) at 
 
 | Date          | Milestone                          |
 | ------------- | ---------------------------------- |
-| June 30, 2025 | Program Launch                     |
-| July 30, 2025 | Program End & Rewards Distribution |
+| July 1, 2025 | Program Launch                     |
+| July 31, 2025 | Program End & Rewards Distribution |
 
 _Note: All deadlines are at 11:59 PM UTC on the specified date._
 
