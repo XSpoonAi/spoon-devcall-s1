@@ -110,7 +110,7 @@ _Note: The final interpretation and classification of contribution levels are at
 
 ## Program Schedule
 
-The SpoonOS Developer Call program will run for one month, starting from May 26th, 2023.
+The SpoonOS Developer Call program will run for one month, starting from July 1st, 2025.
 
 Participants can engage in any of the three phases (Proposal, Coding, Audit) at any time during the program period. The only fixed dates are:
 
