@@ -70,3 +70,12 @@ body:
       default: 0
     validations:
       required: true
+
+  - type: textarea
+    id: how_heard_other
+    attributes:
+      label: "If 'Other', please specify:"
+      description: "Please provide details about how you heard about this event."
+      placeholder: "Please describe how you found out about the SpoonOS Developer Call program..."
+    validations:
+      required: false
