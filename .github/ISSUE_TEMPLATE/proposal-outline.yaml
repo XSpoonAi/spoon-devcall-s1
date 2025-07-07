@@ -56,3 +56,26 @@ body:
       placeholder: "Include any diagrams, mockups, or supplementary materials that support your proposal."
     validations:
       required: false
+
+  - type: dropdown
+    id: how_heard
+    attributes:
+      label: "How did you hear about this event?"
+      description: "Please let us know how you found out about the SpoonOS Developer Call program."
+      options:
+        - "SpoonOS official Social account"
+        - "Media news"
+        - "Referred by SpoonOS team"
+        - "Other"
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: how_heard_other
+    attributes:
+      label: "If 'Other', please specify:"
+      description: "Please provide details about how you heard about this event."
+      placeholder: "Please describe how you found out about the SpoonOS Developer Call program..."
+    validations:
+      required: false
