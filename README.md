@@ -42,6 +42,7 @@ If you're building an MCP Server, your proposal must include:
 Once a proposal is approved:
 
 - Developers can start coding their solution
+- Developers can check the [GitHub Guidebook](https://x.com/SpoonOS_ai/status/1939987670215885039) for guidance
 - Developers can reference the [SpoonOS GitHub repository](https://github.com/XSpoonAi/spoon-core) for documentation
 - Developers can submit issues under spoon-core to:
   1. Report bugs
@@ -80,9 +81,9 @@ SpoonOS will select excellent projects for rewards based on the following levels
 
 | Contribution Level | Issue Reward                      | PR Reward                                                                | Project Reward                                                      |
 | ------------------ | --------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| S Level            | $200 in GAS<br>2000 Beacon Points | $800 in GAS<br>8000 Beacon Points<br>Contributor Role in SpoonOS Discord | $500 in GAS<br>5000 Beacon Point<br>Builder Role in SpoonOS Discord |
-| A Level            | $100 in GAS<br>1000 Beacon Points | $400 in GAS<br>4000 Beacon Points<br>Contributor Role in SpoonOS Discord | $300 in GAS<br>3000 Beacon Point<br>Builder Role in SpoonOS Discord |
-| B Level            | $50 in GAS<br>500 Beacon Points   | $200 in GAS<br>2000 Beacon Points<br>Contributor Role in SpoonOS Discord | $100 in GAS<br>1000 Beacon Point<br>Builder Role in SpoonOS Discord |
+| S Level            | $200 in GAS | $800 in GAS | $500 in GAS |
+| A Level            | $100 in GAS | $400 in GAS | $300 in GAS |
+| B Level            | $50 in GAS | $200 in GAS | $100 in GAS |
 
 For specific GAS incentives, please refer to the program documentation.
 
