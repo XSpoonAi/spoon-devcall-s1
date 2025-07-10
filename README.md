@@ -4,7 +4,7 @@
 
 Welcome to the SpoonOS Developer Call program! This initiative aims to engage developers in building innovative solutions using SpoonOS core technologies. Through this program, we seek to validate our technology, build our ecosystem, and identify key contributors to the SpoonOS platform.
 
-***Note: SpoonOS team will provide OpenRouter API Key to each qualified proposal.***
+**_Note: SpoonOS team will provide OpenRouter API Key to each qualified proposal._**
 
 ## Targets
 
@@ -78,11 +78,11 @@ SpoonOS offers three types of rewards to recognize different forms of contributi
 
 SpoonOS will select excellent projects for rewards based on the following levels:
 
-| Contribution Level | Issue Reward                      | PR Reward                                                                | Project Reward                                                      |
-| ------------------ | --------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| S Level            | $200 | $800 | $500 |
-| A Level            | $100 | $400 | $300 |
-| B Level            | $50 | $200 | $100 |
+| Contribution Level | Issue Reward | PR Reward | Project Reward |
+| ------------------ | ------------ | --------- | -------------- |
+| S Level            | $200         | $800      | $500           |
+| A Level            | $100         | $400      | $300           |
+| B Level            | $50          | $200      | $100           |
 
 For specific GAS incentives, please refer to the program documentation.
 
@@ -106,7 +106,8 @@ For specific GAS incentives, please refer to the program documentation.
 - **PR**: Implements small features or fixes minor issues with acceptable code quality. Includes basic documentation. Makes incremental improvements to the SpoonOS ecosystem.
 - **Project**: Demonstrates functional implementation that meets basic requirements. Shows understanding of SpoonOS technologies and provides adequate documentation.
 
-_Note: The final interpretation and classification of contribution levels are at the discretion of the SpoonOS team._
+_Note 1: The final interpretation and classification of contribution levels are at the discretion of the SpoonOS team._
+_Note 2: All the rewards will be sent in GAS token._
 
 ## Program Schedule
 
@@ -116,7 +117,7 @@ Participants can engage in any of the three phases (Proposal, Coding, Audit) at 
 
 | Date          | Milestone                          |
 | ------------- | ---------------------------------- |
-| July 1, 2025 | Program Launch                     |
+| July 1, 2025  | Program Launch                     |
 | July 31, 2025 | Program End & Rewards Distribution |
 
 _Note: All deadlines are at 11:59 PM UTC on the specified date._
