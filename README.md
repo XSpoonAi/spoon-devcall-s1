@@ -4,6 +4,8 @@
 
 Welcome to the SpoonOS Developer Call program! This initiative aims to engage developers in building innovative solutions using SpoonOS core technologies. Through this program, we seek to validate our technology, build our ecosystem, and identify key contributors to the SpoonOS platform.
 
+***Note: SpoonOS team will provide OpenRouter API Key to each qualified proposal.***
+
 ## Targets
 
 1. **Technical Validation**: Attract developers to try the core functions of SpoonOS.
@@ -26,16 +28,7 @@ In this phase:
   - Technical plan (core functions and product structure)
 
 The SpoonOS team will review and approve proposals before developers can proceed to the coding phase.
-
-**For MCP Server Proposals**:
-
-If you're building an MCP Server, your proposal must include:
-
-- What is the _XXX_ MCP Server
-- How to use the _XXX_ MCP Server
-- Key features of _XXX_ MCP Server
-- Use cases of _XXX_ MCP Server
-- Tools included in the MCP Server
+**Once your proposal is approved, SpoonOS team will send OpenRouter API Key with $15 quota to the contact you left for the coding phase.**
 
 ### 2. Coding Phase
 
@@ -59,7 +52,7 @@ The SpoonOS team will review issues and may either:
 
 Developers who submit PRs that are accepted will receive contributor role on Discord.
 
-### 3. Audit Phase
+### 3. Submission Phase
 
 After completing the project:
 
@@ -73,17 +66,23 @@ After completing the project:
 - The project must be original work, solely owned by the submitter, and not violate any IP rights
 - Popularity votes will be considered in judging (developers are encouraged to share their work on X)
 
-All participants with successful submissions will receive a Builder role on Neo Discord and 5000 Global Beacon points.
-
 ## Rewards
+
+SpoonOS offers three types of rewards to recognize different forms of contributions:
+
+- **Issue Rewards**: For identifying bugs, vulnerabilities, or proposing features to SpoonOS core repository. These contributions help improve the stability, security, and functionality of the SpoonOS ecosystem.
+
+- **PR Rewards**: For implementing features or resolving bugs with well-tested code. These contributions include thorough documentation and follow best practices, making substantial improvements to the SpoonOS ecosystem.
+
+- **Project Rewards**: For completing a project demo or MVP using the SpoonOS tech stack. These contributions demonstrate practical applications and showcase the potential of SpoonOS technologies.
 
 SpoonOS will select excellent projects for rewards based on the following levels:
 
 | Contribution Level | Issue Reward                      | PR Reward                                                                | Project Reward                                                      |
 | ------------------ | --------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| S Level            | $200 in GAS | $800 in GAS | $500 in GAS |
-| A Level            | $100 in GAS | $400 in GAS | $300 in GAS |
-| B Level            | $50 in GAS | $200 in GAS | $100 in GAS |
+| S Level            | $200 | $800 | $500 |
+| A Level            | $100 | $400 | $300 |
+| B Level            | $50 | $200 | $100 |
 
 For specific GAS incentives, please refer to the program documentation.
 
