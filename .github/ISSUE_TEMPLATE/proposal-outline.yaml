@@ -48,6 +48,15 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: contact_email
+    attributes:
+      label: "Contact Email"
+      description: "Primary email for follow-up and OpenRouter key delivery."
+      placeholder: "name@example.com"
+    validations:
+      required: true
+
   - type: textarea
     id: additional_information
     attributes:
